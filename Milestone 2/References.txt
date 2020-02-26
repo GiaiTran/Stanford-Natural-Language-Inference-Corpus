@@ -1,0 +1,28 @@
+GloVe word embedding library
+https://nlp.stanford.edu/pubs/glove.pdf
+
+Attention is all you need
+https://arxiv.org/pdf/1706.03762.pdf
+
+========================================================
+
+
+Other useful link - not a paper
+
+Position Encoding / Attention
+https://www.reddit.com/r/learnmachinelearning/comments/a35goa/positional_encoding/
+
+Mechanics of Seq2seq Models With Attention
+https://jalammar.github.io/visualizing-neural-machine-translation-mechanics-of-seq2seq-models-with-attention/
+
+Word Embedding using Tensorflow - Embedding layer - Embedding Projector
+https://www.tensorflow.org/tutorials/text/word_embeddings
+
+Text Classification with RNN using Tensorflow
+https://www.tensorflow.org/tutorials/text/text_classification_rnn
+
+Attention in Neural Network
+https://towardsdatascience.com/attention-in-neural-networks-e66920838742
+
+Recurrent Neural Networks (RNN) with Keras
+https://www.tensorflow.org/guide/keras/rnn
